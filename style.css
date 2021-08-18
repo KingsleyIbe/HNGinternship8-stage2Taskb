@@ -1,0 +1,94 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+ body{
+    background-color: #efefef;
+}
+.profile-image{
+    width: 40%;
+    float:right;
+}
+.profile-info{
+    width: 60%;
+    height: vh;
+    float: left;
+    padding: 0 30px;
+}
+.profile-info h1{
+    margin: 50px 0 30px 0;
+}
+.my-bio{
+    margin-left: 15px;
+}
+.social-media{
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.social-media a{
+    margin: 20px 0 0 15px;
+    text-decoration: none;
+}
+.skills-heading h1{
+    margin-left: 30px;
+}
+.skills img{
+    height: 2%;
+    margin: 2px;
+}
+.skills{
+    background-color: #fff;
+    display: inline-block;
+    width: 14%;
+    padding: 30px 10px;
+    margin: 2%;
+    text-align: center;
+    box-shadow: 0 0 15px 1px rgba(#ff0000, #008000, #0000ff, alpha);
+}
+.skills small{
+    display: block;
+    padding: 15px 0 0 0;
+}
+.form {
+    display:block;
+    margin-left: 30px;
+}
+.form input{
+    width: 50%;
+    padding: 20px 0 20px 10px;
+    margin-top:20px;
+    text-align: left;
+}
+.form textarea{
+    width: 50%;
+    padding: 20px 0 20px 10px;
+}
+button{
+    position: relative;
+    left: 300px;
+    margin-top: 20px;
+    padding: 10px;
+    background: #f00;
+    box-shadow: none;
+    border: none;
+}
+.contact-me h1{
+    margin-left: 30px;
+    margin-bottom: 10px;
+
+}
+
+/* #container{
+    text-align: center;
+    color: #ff0000;
+    font-size: 2em;
+}
+button{
+    text-align: center;
+    position: relative;
+    left: 700px;
+    top: 70px;
+}  */
