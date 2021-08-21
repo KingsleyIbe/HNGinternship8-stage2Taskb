@@ -48,6 +48,17 @@
     text-align: center;
     box-shadow: 0 0 15px 1px rgba(#ff0000, #008000, #0000ff, alpha);
 }
+.skills a{
+    text-decoration: none;
+    font-size: 1.2em;
+}
+.skills p:hover{
+    opacity: 0.3;
+}
+ a:hover{
+    opacity: 0.1;
+    
+}
 .skills small{
     display: block;
     padding: 15px 0 0 0;
