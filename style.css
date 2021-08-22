@@ -78,11 +78,13 @@
     padding: 20px 0 20px 10px;
 }
 button{
+    color: #fff;
+    font-size: 1.5em;
     position: relative;
-    left: 300px;
+    left: 200px;
     margin-top: 20px;
-    padding: 10px;
-    background: #f00;
+    padding: 20px;
+    background: #0077ff;
     box-shadow: none;
     border: none;
 }
@@ -91,4 +93,6 @@ button{
     margin-bottom: 10px;
 
 }
+
+
 
